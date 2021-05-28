@@ -6,6 +6,6 @@ Dépôt Git du jeu Uno créé durant le cours d'initiation à Python (dispensé 
 
 Le dépôt contient le projet du jeu Uno réalisé durant le cours. Le joueur joue seul contre l'ordinateur.
 
-### Exécution des projets
+## Exécution du projet
 
 Pour démarrer le projet du UNO, il est nécessaire de se placer dans le dossier où se trouve les fichiers du programme, puis de lancer la commande suivante : `python main.py`.
