@@ -1,9 +1,9 @@
 import random
-from uno.assets.colors.fore import ForeColor
-from uno.assets.font import FontStyle
-from uno.game.game import Game
-from uno.game.pages.rules import rules
-from uno.system.console import clear_console
+from assets.colors.fore import ForeColor
+from assets.font import FontStyle
+from game.game import Game
+from game.pages.rules import rules
+from system.console import clear_console
 
 
 game_data: Game

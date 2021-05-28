@@ -1,5 +1,5 @@
-from uno.game.deck import Deck
-from uno.game.player import Player
+from game.deck import Deck
+from game.player import Player
 import random
 
 

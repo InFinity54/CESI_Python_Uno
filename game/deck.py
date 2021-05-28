@@ -1,5 +1,5 @@
-from uno.assets.colors.fore import ForeColor
-from uno.assets.font import FontStyle
+from assets.colors.fore import ForeColor
+from assets.font import FontStyle
 
 
 class Deck:
